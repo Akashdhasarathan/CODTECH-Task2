@@ -16,6 +16,8 @@ This is a simple Weather App that fetches current weather data from an API and d
 - **Responsive Design**: The app is responsive and works well on different screen sizes.
 
 ## Screenshots
+![Screenshot from 2024-08-25 11-25-50](https://github.com/user-attachments/assets/bedb1430-e07f-4ddb-9663-fa19d330ca8b)
+
 
 
 ## Technologies Used
