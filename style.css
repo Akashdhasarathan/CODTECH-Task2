@@ -66,8 +66,13 @@ body {
 }
 .temperature {
     font-size: 48px;
+    color: #df1212;
     font-weight: bold;
     margin: 10px 0;
+    border: 1px solid #df1212;
+    margin-left: 70px;
+    margin-right: 70px;
+    border-radius: 50px;
 }
 .weather-icon {
     width: 180px;
@@ -77,19 +82,22 @@ body {
 .location {
     font-size: 24px;
     margin-top: 5px;
+    color: #df1212;
 }
 .description {
     font-size: 18px;
     color: #555;
     margin-top: 10px;
+    color: #df1212;
 }
 .extra-info {
     margin-top: 15px;
     text-align: left;
     font-size: 16px;
-    color: #555;
+    color:#c75656;
     display: flex;
     gap: 20px;
+    
 }
 .extra-info p {
     margin: 0;
