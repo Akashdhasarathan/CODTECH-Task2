@@ -34,7 +34,7 @@ This is a simple Weather App that fetches current weather data from an API and d
 ### Installation
 
 1. Clone the repository:
-   ```bash
+   ```bashhttps://github.com/Akashdhasarathan/CODTECH-Task2.git
    
 
 ## Navigate to the project directory:
